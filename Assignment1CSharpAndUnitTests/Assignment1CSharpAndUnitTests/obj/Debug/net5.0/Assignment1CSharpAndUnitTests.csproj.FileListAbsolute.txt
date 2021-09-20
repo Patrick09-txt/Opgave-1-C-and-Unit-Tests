@@ -1,0 +1,12 @@
+E:\VSProjects\Zealand\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\bin\Debug\net5.0\Assignment1CSharpAndUnitTests.deps.json
+E:\VSProjects\Zealand\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\bin\Debug\net5.0\Assignment1CSharpAndUnitTests.dll
+E:\VSProjects\Zealand\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\bin\Debug\net5.0\ref\Assignment1CSharpAndUnitTests.dll
+E:\VSProjects\Zealand\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\bin\Debug\net5.0\Assignment1CSharpAndUnitTests.pdb
+E:\VSProjects\Zealand\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\Assignment1CSharpAndUnitTests.csproj.AssemblyReference.cache
+E:\VSProjects\Zealand\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\Assignment1CSharpAndUnitTests.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSProjects\Zealand\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\Assignment1CSharpAndUnitTests.AssemblyInfoInputs.cache
+E:\VSProjects\Zealand\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\Assignment1CSharpAndUnitTests.AssemblyInfo.cs
+E:\VSProjects\Zealand\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\Assignment1CSharpAndUnitTests.csproj.CoreCompileInputs.cache
+E:\VSProjects\Zealand\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\Assignment1CSharpAndUnitTests.dll
+E:\VSProjects\Zealand\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\ref\Assignment1CSharpAndUnitTests.dll
+E:\VSProjects\Zealand\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\Assignment1CSharpAndUnitTests.pdb
