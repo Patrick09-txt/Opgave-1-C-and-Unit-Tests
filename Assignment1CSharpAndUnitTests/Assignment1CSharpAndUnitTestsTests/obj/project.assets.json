@@ -6130,23 +6130,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pnysk\\.nuget\\packages\\": {},
-    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Patrick\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VSProjects\\Zealand\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTestsTests\\Assignment1CSharpAndUnitTestsTests.csproj",
+      "projectUniqueName": "C:\\Users\\Patrick\\Documents\\GitHub\\Opgave-1-C-and-Unit-Tests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTestsTests\\Assignment1CSharpAndUnitTestsTests.csproj",
       "projectName": "Assignment1CSharpAndUnitTestsTests",
-      "projectPath": "E:\\VSProjects\\Zealand\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTestsTests\\Assignment1CSharpAndUnitTestsTests.csproj",
-      "packagesPath": "C:\\Users\\pnysk\\.nuget\\packages\\",
-      "outputPath": "E:\\VSProjects\\Zealand\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTestsTests\\obj\\",
+      "projectPath": "C:\\Users\\Patrick\\Documents\\GitHub\\Opgave-1-C-and-Unit-Tests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTestsTests\\Assignment1CSharpAndUnitTestsTests.csproj",
+      "packagesPath": "C:\\Users\\Patrick\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Patrick\\Documents\\GitHub\\Opgave-1-C-and-Unit-Tests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTestsTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\pnysk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Patrick\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6161,8 +6161,8 @@
         "net5.0": {
           "targetAlias": ".NETCoreApp,Version=v5.0",
           "projectReferences": {
-            "E:\\VSProjects\\Zealand\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests.csproj": {
-              "projectPath": "E:\\VSProjects\\Zealand\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests.csproj"
+            "C:\\Users\\Patrick\\Documents\\GitHub\\Opgave-1-C-and-Unit-Tests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests.csproj": {
+              "projectPath": "C:\\Users\\Patrick\\Documents\\GitHub\\Opgave-1-C-and-Unit-Tests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests.csproj"
             }
           }
         }

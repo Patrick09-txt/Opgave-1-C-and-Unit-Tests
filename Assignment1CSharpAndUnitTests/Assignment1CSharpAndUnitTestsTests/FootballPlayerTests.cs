@@ -16,7 +16,7 @@ namespace Assignment1CSharpAndUnitTests.Tests
         [TestInitialize]
         public void SetupFootballPlayer()
         {
-            _footballPlayer = new FootballPlayer(1, "Deshawn", 100, 69);
+            _footballPlayer = new FootballPlayer("Deshawn", 100, 69);
         }
 
         [TestMethod]
@@ -31,9 +31,9 @@ namespace Assignment1CSharpAndUnitTests.Tests
                 _footballPlayer.Name = "Til";
                 Assert.Fail();
             }
-            catch (ArgumentException ex)
+            catch (ArgumentOutOfRangeException ex)
             {
-                Assert.AreEqual("Name must be 4 characters or longer", ex.Message);
+                
             }
         }
 

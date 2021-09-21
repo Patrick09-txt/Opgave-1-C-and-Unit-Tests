@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VSProjects\\Zealand\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests.csproj": {}
+    "C:\\Users\\Patrick\\Documents\\GitHub\\Opgave-1-C-and-Unit-Tests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests.csproj": {}
   },
   "projects": {
-    "E:\\VSProjects\\Zealand\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests.csproj": {
+    "C:\\Users\\Patrick\\Documents\\GitHub\\Opgave-1-C-and-Unit-Tests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSProjects\\Zealand\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\Patrick\\Documents\\GitHub\\Opgave-1-C-and-Unit-Tests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests.csproj",
         "projectName": "Assignment1CSharpAndUnitTests",
-        "projectPath": "E:\\VSProjects\\Zealand\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests.csproj",
-        "packagesPath": "C:\\Users\\pnysk\\.nuget\\packages\\",
-        "outputPath": "E:\\VSProjects\\Zealand\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests\\obj\\",
+        "projectPath": "C:\\Users\\Patrick\\Documents\\GitHub\\Opgave-1-C-and-Unit-Tests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests.csproj",
+        "packagesPath": "C:\\Users\\Patrick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Patrick\\Documents\\GitHub\\Opgave-1-C-and-Unit-Tests\\Assignment1CSharpAndUnitTests\\Assignment1CSharpAndUnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pnysk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Patrick\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

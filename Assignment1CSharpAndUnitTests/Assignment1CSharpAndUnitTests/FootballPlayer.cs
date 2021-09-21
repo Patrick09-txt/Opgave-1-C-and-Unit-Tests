@@ -4,7 +4,7 @@ namespace Assignment1CSharpAndUnitTests
 {
     public class FootballPlayer
     {
-        private int _id;
+        public int Id { get; set; }
         private string _name;
         private int _price;
         private int _shirtNumber;
@@ -14,18 +14,11 @@ namespace Assignment1CSharpAndUnitTests
 
         }
 
-        public FootballPlayer(int id, string name, int price, int shirtNumber)
+        public FootballPlayer(string name, int price, int shirtNumber)
         {
-            Id = id;
             Name = name;
             Price = price;
             ShirtNumber = shirtNumber;
-        }
-
-        public int Id
-        {
-            get { return _id; }
-            set { _id = value; }
         }
 
         public string Name
@@ -33,7 +26,7 @@ namespace Assignment1CSharpAndUnitTests
             get { return _name; }
             set
             {
-                if (value.Length < 4) throw new ArgumentException("Name must be 4 characters or longer");
+                if (value.Length < 4) throw new ArgumentOutOfRangeException("Name", Name, "Name must be 4 characters or longer");
                 _name = value;
             }
         }

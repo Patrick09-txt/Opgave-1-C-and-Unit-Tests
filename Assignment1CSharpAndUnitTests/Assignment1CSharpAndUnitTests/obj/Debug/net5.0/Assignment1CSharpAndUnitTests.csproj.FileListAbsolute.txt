@@ -10,3 +10,15 @@ E:\VSProjects\Zealand\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTest
 E:\VSProjects\Zealand\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\Assignment1CSharpAndUnitTests.dll
 E:\VSProjects\Zealand\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\ref\Assignment1CSharpAndUnitTests.dll
 E:\VSProjects\Zealand\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\Assignment1CSharpAndUnitTests.pdb
+C:\Users\Patrick\Documents\GitHub\Opgave-1-C-and-Unit-Tests\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\bin\Debug\net5.0\Assignment1CSharpAndUnitTests.deps.json
+C:\Users\Patrick\Documents\GitHub\Opgave-1-C-and-Unit-Tests\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\bin\Debug\net5.0\Assignment1CSharpAndUnitTests.dll
+C:\Users\Patrick\Documents\GitHub\Opgave-1-C-and-Unit-Tests\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\bin\Debug\net5.0\ref\Assignment1CSharpAndUnitTests.dll
+C:\Users\Patrick\Documents\GitHub\Opgave-1-C-and-Unit-Tests\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\bin\Debug\net5.0\Assignment1CSharpAndUnitTests.pdb
+C:\Users\Patrick\Documents\GitHub\Opgave-1-C-and-Unit-Tests\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\Assignment1CSharpAndUnitTests.csproj.AssemblyReference.cache
+C:\Users\Patrick\Documents\GitHub\Opgave-1-C-and-Unit-Tests\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\Assignment1CSharpAndUnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\Documents\GitHub\Opgave-1-C-and-Unit-Tests\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\Assignment1CSharpAndUnitTests.AssemblyInfoInputs.cache
+C:\Users\Patrick\Documents\GitHub\Opgave-1-C-and-Unit-Tests\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\Assignment1CSharpAndUnitTests.AssemblyInfo.cs
+C:\Users\Patrick\Documents\GitHub\Opgave-1-C-and-Unit-Tests\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\Assignment1CSharpAndUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Documents\GitHub\Opgave-1-C-and-Unit-Tests\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\Assignment1CSharpAndUnitTests.dll
+C:\Users\Patrick\Documents\GitHub\Opgave-1-C-and-Unit-Tests\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\ref\Assignment1CSharpAndUnitTests.dll
+C:\Users\Patrick\Documents\GitHub\Opgave-1-C-and-Unit-Tests\Assignment1CSharpAndUnitTests\Assignment1CSharpAndUnitTests\obj\Debug\net5.0\Assignment1CSharpAndUnitTests.pdb
