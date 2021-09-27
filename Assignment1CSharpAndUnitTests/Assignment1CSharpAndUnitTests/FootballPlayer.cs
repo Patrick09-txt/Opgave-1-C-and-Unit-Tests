@@ -56,5 +56,10 @@ namespace Assignment1CSharpAndUnitTests
                 _shirtNumber = value;
             }
         }
+
+        public override string ToString()
+        {
+            return $"{nameof(Id)}: {Id}, {nameof(Name)}: {Name}, {nameof(Price)}: {Price}, {nameof(ShirtNumber)}: {ShirtNumber}";
+        }
     }
 }
