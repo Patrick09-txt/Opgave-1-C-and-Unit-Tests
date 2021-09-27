@@ -4,7 +4,7 @@ namespace Assignment1CSharpAndUnitTests
 {
     public class FootballPlayer
     {
-        public int Id { get; set; }
+        public int _id;
         private string _name;
         private int _price;
         private int _shirtNumber;
@@ -14,11 +14,17 @@ namespace Assignment1CSharpAndUnitTests
 
         }
 
-        public FootballPlayer(string name, int price, int shirtNumber)
+        public FootballPlayer(int id, string name, int price, int shirtNumber)
         {
             Name = name;
             Price = price;
             ShirtNumber = shirtNumber;
+        }
+
+        public int Id
+        {
+            get { return _id; }
+            set { _id = value; }
         }
 
         public string Name

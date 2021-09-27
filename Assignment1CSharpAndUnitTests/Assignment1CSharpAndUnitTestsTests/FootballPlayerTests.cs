@@ -16,7 +16,15 @@ namespace Assignment1CSharpAndUnitTests.Tests
         [TestInitialize]
         public void SetupFootballPlayer()
         {
-            _footballPlayer = new FootballPlayer("Deshawn", 100, 69);
+            _footballPlayer = new FootballPlayer(1, "Deshawn", 100, 69);
+        }
+
+        [TestMethod]
+        public void TestId()
+        {
+            Assert.AreEqual(1, _footballPlayer.Id);
+            _footballPlayer.Id = 2;
+            Assert.AreEqual(2, _footballPlayer.Id);
         }
 
         [TestMethod]
