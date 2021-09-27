@@ -16,7 +16,7 @@ namespace Assignment1CSharpAndUnitTests
 
         public FootballPlayer(int id, string name, int price, int shirtNumber)
         {
-            Id = name;
+            Id = id;
             Name = name;
             Price = price;
             ShirtNumber = shirtNumber;
